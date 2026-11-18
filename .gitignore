@@ -1,0 +1,19 @@
+# Local data and credentials
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+*.key
+*.pem
+kaggle.json
+*.zip
+*.tar
+*.tar.gz
+*.tif
+*.tiff
+*.h5
+*.pt
+*.pth
+*.ckpt
+.DS_Store
