@@ -1,0 +1,1 @@
+Consolidated validation of user-supplied V3 episode CSV and previously generated satellite experiment CSVs. Run make_final_validation.py from /mnt/data with original input paths. Data: three training seeds; five overlapping satellite splits. Figures and DOCX derived directly from CSV. No new PPO/DQN training performed.

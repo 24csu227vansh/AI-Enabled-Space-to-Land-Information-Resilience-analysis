@@ -1,0 +1,6 @@
+Independent NumPy replay of the Version 2 synthetic information environment; no Gymnasium, no trained RL model, no SEN12MS.
+Number of observations: 4800
+Maximum rule-based regret vs best immediate performance action: 0
+Because targeted gains are 0.18*w_i*(1-q_i), while balanced gain is their average, the Rule-Based action selecting max weighted deficit is the exact greedy maximizer of the environment performance metric.
+Next-state quality is sampled independently of the action; therefore no multi-step action effect exists in this environment. This benchmark cannot substantiate that RL learns improved long-horizon resilience.
+Replay values may differ from user Version 2 run due to PRNG draw order/seed; this is an independent audit, not reproduction of their PPO/DQN scores.

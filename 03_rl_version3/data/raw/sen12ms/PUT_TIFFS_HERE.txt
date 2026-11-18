@@ -1,0 +1,1 @@
+Extract SEN12MS ROI folders here; TIFFs not supplied.

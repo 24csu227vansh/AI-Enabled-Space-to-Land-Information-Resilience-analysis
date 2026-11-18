@@ -1,0 +1,14 @@
+{
+  "s1_observations": 400,
+  "s2_observations": 400,
+  "s1_locations": 100,
+  "s2_locations": 100,
+  "shared_location_ids": 100,
+  "s1_mean_valid_pixel_fraction": 1.0,
+  "s2a_mean_valid_pixel_fraction": 1.0,
+  "s2_cloud_metadata_count": 400,
+  "s2_cloud_pct_mean": 3.0933481675000003,
+  "s2_cloud_pct_median": 1.8778905,
+  "s2_cloud_pct_ge_20_count": 0,
+  "dropout_simulation": "Independent random S1/S2 modality dropout; 1000 trials per rate; availability only"
+}
